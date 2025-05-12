@@ -530,7 +530,7 @@ Philippines Model Evaluation:
 ![Philippines - Maize Production](https://github.com/codedreamerD/MLT1/blob/main/repo-dir/Philippines-Maize-Evaluation.png)
 ![Philippines - Rice Production](https://github.com/codedreamerD/MLT1/blob/main/repo-dir/Philippines-Rice-Evaluation.png)
 ![Philippines - Coffee Green Production](https://github.com/codedreamerD/MLT1/blob/main/repo-dir/Philippines-Coffee-green-Evaluation.png)
-![Philippines - Cocoa Beans Production]https://github.com/codedreamerD/MLT1/blob/main/repo-dir/Philippines-Cocoa-beans-Evaluation.png()
+![Philippines - Cocoa Beans Production](https://github.com/codedreamerD/MLT1/blob/main/repo-dir/Philippines-Cocoa-beans-Evaluation.png)
 ![Philippines - Palm Oil Production](https://github.com/codedreamerD/MLT1/blob/main/repo-dir/Philippines-Palm-oil-Evaluation.png)
 
 Malaysia's Model Evaluation:
